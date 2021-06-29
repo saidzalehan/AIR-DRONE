@@ -3,7 +3,12 @@ AIR – Drone is a project about programming a drone with autonomous system for 
 
 This is the file you need to download.
 
-File Recognation File:
+Software Requirements :
+1. Python
+2. PyCharm
+3. Use OS Linux ( MacOS or Ubuntu )
+
+Recognation File :
 
 Download yolov3 file in https://pjreddie.com/darknet/yolo/
 For small fps file but less accuracy download  Tiny Version ( good for drone )
