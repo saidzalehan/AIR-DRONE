@@ -25,7 +25,7 @@ Tiny Version :
 
 The libraries that need to install to run this program :
 1. djitellopy
-2. pyzbare
+2. pyzbar ( Follow this link if you have error running pyzbar https://github.com/NaturalHistoryMuseum/pyzbar )
 3. time
 4. numpy
 5. opencv (cv2)
