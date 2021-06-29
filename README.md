@@ -12,16 +12,15 @@ Software Requirements :
 
 Download yolov3 file in https://pjreddie.com/darknet/yolo/
 
-For small fps file but less accuracy download  Tiny Version ( good for drone )
-For more fps and more accuracy download Original Version ( Good for more powerful device with highest RAM and GPU )
-
-Original Version :
-1. yolov3.cfg
-2. yolov3.weights
-
+- For small fps file but less accuracy download  Tiny Version ( good for drone )
 Tiny Version :
 1. yolov3-tiny.cfg 
 2. yolov3-tiny.weights
+
+- For more fps and more accuracy download Original Version ( Good for more powerful device with highest RAM and GPU )
+Original Version :
+1. yolov3.cfg
+2. yolov3.weights
 
 Python libraries that need to install to run this program :
 1. djitellopy
